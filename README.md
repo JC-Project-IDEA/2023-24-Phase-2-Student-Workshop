@@ -23,6 +23,8 @@
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson4.pdf"> 第4堂 - Sound Editing </a>
 </li>
+
+<!--
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson5.pdf"> 第5堂 - Software </a>
 </li>
@@ -32,6 +34,8 @@
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson7.pdf"> 第7堂 - Debugging </a>
 </li>
+-->
+
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware Assembling Instructions.pdf"> SnapSound 組裝步驟 </a>
 </li>
