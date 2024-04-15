@@ -12,9 +12,26 @@
 
 
 <li>
-   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson1.pdf"> 第1堂 - Introduction & Sound Art </a>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson1.pdf"> 第1堂 - Introduction & Sound Art </a>
 </li>
-
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson2.pdf"> 第2堂 - Graphic Notation & Sound Map </a>
+</li>
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson3.pdf"> 第3堂 - Sound Recording </a>
+</li>
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson4.pdf"> 第4堂 - Sound Editing </a>
+</li>
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson5.pdf"> 第5堂 - Software </a>
+</li>
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson6.pdf"> 第6堂 - Hardware & Programming </a>
+</li>
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson7.pdf"> 第7堂 - Debugging </a>
+</li>
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware Assembling Instructions.pdf"> SnapSound 組裝步驟 </a>
 </li>
@@ -97,26 +114,7 @@ void loop() {
 
 ## 相關連結（影像）
 1. https://perchance.org/ai-icon-generator
+
 2. Online Photo Editor https://www.photopea.com/
 
 
-## 相關連結（器材／資源）
-1. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
-
-2. SparkFun 零件 https://www.sparkfun.com/
-
-3. adafruit 零件 https://www.adafruit.com/
-
-4. Arduino https://www.arduino.cc/
-
-5. Processing https://processing.org/
-
-6. Serial MP3 Player Library https://github.com/MajicDesigns/MD_YX5300
-
-   Documentation https://majicdesigns.github.io/MD_YX5300/
-
-7. Capacitive Sensing Library https://playground.arduino.cc/Main/CapacitiveSensor/
-
-
-## 延伸學習
-1. p5.js https://p5js.org/
