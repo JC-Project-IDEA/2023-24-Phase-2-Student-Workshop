@@ -23,11 +23,12 @@
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson4.pdf"> 第4堂 - Sound Editing </a>
 </li>
-
-<!--
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson5.pdf"> 第5堂 - Software </a>
 </li>
+
+
+<!--
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson6.pdf"> 第6堂 - Hardware & Programming </a>
 </li>
