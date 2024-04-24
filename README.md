@@ -119,8 +119,12 @@ void loop() {
 
 
 ## 相關連結（影像）
-1. https://perchance.org/ai-icon-generator
+1. AI Icon Generator https://perchance.org/ai-icon-generator
 
-2. Online Photo Editor https://www.photopea.com/
+2. 圖像二值化(Binary Image) https://javl.github.io/image2cpp/
+
+3. 邊緣檢測(Edge Detection) https://pinetools.com/image-edge-detection
+
+4. Online Photo Editor https://www.photopea.com/
 
 
