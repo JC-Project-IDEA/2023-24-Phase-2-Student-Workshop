@@ -29,7 +29,9 @@
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson6.pdf"> 第6堂 - Hardware & Programming </a>
 </li>
-
+<li>
+   <a href="https://tinyurl.com/SnapSound2024"> SnapSound Software 下載 </a>
+</li>
 
 <!--
 <li>
