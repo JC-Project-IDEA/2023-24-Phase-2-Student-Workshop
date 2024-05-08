@@ -30,7 +30,10 @@
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson6.pdf"> 第6堂 - Hardware & Programming </a>
 </li>
 <li>
-   <a href="https://tinyurl.com/SnapSound2024"> SnapSound Software 下載 </a>
+   <a href="https://tinyurl.com/SnapSound2024"> SnapSound Software 下載 (Windows)</a>
+</li>
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/ThermalPrinter.zip"> Thermal Printer Code 下載</a>
 </li>
 
 <!--
@@ -41,7 +44,7 @@
 
 
 <li>
-   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware-Assembling-Instructions.pdf"> SnapSound 組裝步驟 </a>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware-Assemble-Instructions.pdf"> SnapSound 組裝步驟 </a>
 </li>
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/JC-Project-IDEA-phase-2/JC-Project-IDEA-phase-2.ino"> SnapSound 編碼： </a>
