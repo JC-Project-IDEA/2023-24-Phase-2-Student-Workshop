@@ -33,7 +33,7 @@
    <a href="https://tinyurl.com/SnapSound2024"> SnapSound Software 下載 (Windows)</a>
 </li>
 <li>
-   <a href="https://drive.google.com/file/d/1uD-BAqomRs-sC9b-lkvnvxcbrXRE5K9l/view?usp=drive_link"> SnapSound Software Code 下載 (Processing)</a>
+   <a href="https://drive.google.com/file/d/1uD-BAqomRs-sC9b-lkvnvxcbrXRE5K9l/view?usp=drive_link"> SnapSound Software Code 下載 (Processing)</a>Need to install library first
 </li>
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/ThermalPrinter.zip"> Thermal Printer Code 下載</a>
