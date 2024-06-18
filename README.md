@@ -39,7 +39,7 @@
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/ThermalPrinter.zip"> Thermal Printer Code 下載</a>
 </li>
 <li>
-   <a href="[https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/ThermalPrinter.zip](https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/%E7%86%B1%E6%95%8F%E6%89%93%E5%8D%B0%E6%A9%9F%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E.pdf)"> 熱敏打印機使用說明</a>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/%E7%86%B1%E6%95%8F%E6%89%93%E5%8D%B0%E6%A9%9F%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E.pdf"> 熱敏打印機使用說明</a>
 </li>
 
 <!--
