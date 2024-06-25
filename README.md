@@ -33,6 +33,9 @@
    <a href="https://tinyurl.com/SnapSound2024"> SnapSound Software 下載 (Windows)</a>
 </li>
 <li>
+   <a href="https://drive.google.com/file/d/1o4IOTC9OJfvF9jnMfXPzLPVOiVPpyCAP/view?usp=drive_link"> SnapSound Software 下載 (Mac-x86_64)</a>
+</li>
+<li>
    <a href="https://drive.google.com/file/d/1uD-BAqomRs-sC9b-lkvnvxcbrXRE5K9l/view?usp=drive_link"> SnapSound Software Code 下載 (Processing)</a>
 </li>
 <li>
